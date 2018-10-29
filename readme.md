@@ -1,5 +1,5 @@
 <p align="center">
-	<a href="https://npmjs.com/@allalgorithms-mergesort"><img src="https://cdn.abranhe.com/projects/algorithms/logo.svg" width="20%">
+	<a href="https://npmjs.com/@allalgorithms/mergesort"><img src="https://cdn.abranhe.com/projects/algorithms/logo.svg" width="20%">
 	</a>
 	<br>
 	<br>
