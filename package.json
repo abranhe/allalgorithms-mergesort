@@ -1,0 +1,42 @@
+{
+  "name": "@allalgorithms/mergesort",
+  "version": "1.0.0",
+  "description": "Merge Sort algorithm from The All ▲lgorithm Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "xo && ava"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abranhe/allalgorithms-mergesort.git"
+  },
+  "files": [
+	  "index.js",
+	  "comparator.js"
+  ],
+  "keywords": [
+    "computer-science",
+    "allalgorithms",
+    "algorithms",
+    "all-algorithms",
+	"algorithm",
+	"sorting",
+	"sorting-algorithms",
+	"allalgorithms-mergesort",
+	"mergesort"
+  ],
+  "author": {
+    "name": "Carlos Abraham",
+    "web": "abranhe.com",
+    "email": "abraham@abranhe.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/abranhe/allalgorithms-mergesort/issues"
+  },
+  "homepage": "https://js.allalgorithms.com",
+  "devDependencies": {
+    "ava": "^0.25.0",
+    "xo": "^0.23.0"
+  }
+}
