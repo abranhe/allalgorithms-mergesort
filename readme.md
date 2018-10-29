@@ -12,7 +12,7 @@
 	<a href="https://travis-ci.org/abranhe/allalgorithms-mergesort"><img src="https://img.shields.io/travis/abranhe/allalgorithms-mergesort.svg?logo=travis" /></a>
 	<a href="https://github.com/abranhe/allalgorithms-mergesort/blob/master/license"><img src="https://img.shields.io/github/license/abranhe/allalgorithms-mergesort.svg" /></a>
 	<a href="https://github.com/allalgorithms-mergesort"><img src="https://cdn.abranhe.com/projects/algorithms/badge.svg"/></a>
-	<a href="https://github.com/abranhe/allalgorithms/allalgorithms-mergesort"><img src="https://img.shields.io/npm/v/allalgorithms.svg"/></a>
+	<a href="https://github.com/abranhe/allalgorithms/allalgorithms-mergesort"><img src="https://img.shields.io/npm/v/allalgorithms-mergesort.svg"/></a>
 </p>
 
 ## Install
